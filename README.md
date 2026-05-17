@@ -13,11 +13,10 @@
 
 | Credential | Issuing Body |
 |------------|-------------|
-| AI Governance Professional (AIGP) | IAPP |
+| AI Governance Professional (AIGP) — Candidate | IAPP *(Exam scheduled May 2026)* |
 | AI Transformation Leader (AB-731) | Microsoft |
 | Lean Six Sigma Black Belt | KPMG |
-| Project Management Professional (PMP) | PMI |
-| Google Generative AI Leader | Google |
+| Project Management Professional (PMP) | Simplilearn |
 
 📧 yatirajpoojari@gmail.com | 📍 Mumbai, India
 
@@ -28,7 +27,7 @@
 | # | Project | Industry | Primary Focus | Status |
 |---|---------|----------|---------------|--------|
 | 1 | [RAI Governance for Claims Automation](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/) | Insurance / BFSI | Risk Assessment · Lifecycle Governance · Ethics | ✅ Complete |
-| 2 | RAI Maturity Assessment — Drug Discovery Gen AI | Pharma / Life Sciences | Maturity Model · Roadmap · Regulatory | 🔄 Coming Soon |
+| 2 | [RAI Maturity Assessment — Drug Discovery Gen AI](./project-2-pharma-genai/) | Pharma / Life Sciences | Maturity Model · Roadmap · Regulatory | ✅ Complete |
 | 3 | AI Ethics & Risk — Consumer Personalisation Engine | FMCG / Retail | Ethics · Fairness · Guardrails | 🔄 Coming Soon |
 | 4 | RAI Playbook — LLM Customer Service Chatbot | Contact Centre | NIST RMF · Vendor Assessment · Incident Response | 🔄 Coming Soon |
 
@@ -84,7 +83,30 @@
 ---
 
 ### 📁 Project 2 — RAI Maturity Assessment for Gen AI in Drug Discovery (Pharma / Life Sciences)
-*Coming Soon*
+
+**Scenario:** NovaSynth Biologics — Gen AI platform (LLM + RAG) for molecule screening and clinical trial patient matching · **Overall RAI Maturity: Level 1 (Ad Hoc) · 14 risks · 4 Critical · 12-month roadmap to Level 3**
+
+| Deliverable | What's Inside | Format | Link |
+|-------------|--------------|--------|------|
+| RAI Maturity Assessment | 7-domain maturity scoring, gap analysis, 12-month roadmap | MD | [Browse on GitHub](./project-2-pharma-genai/rai-maturity-assessment.md) |
+| Risk Register | 14 risks across data, model, operational, ethical, and regulatory dimensions | MD | [Browse on GitHub](./project-2-pharma-genai/risk-register.md) |
+| Governance Policy | AI governance policy, RACI, human review protocol, incident response | MD | [Browse on GitHub](./project-2-pharma-genai/governance-policy.md) |
+| Case Study — Full Document | DOCX | [📝 Download DOCX](YOUR_GOOGLE_DRIVE_LINK_P2_DOCX) |
+| Presentation Deck | PPTX | [📊 Download PPTX](YOUR_GOOGLE_DRIVE_LINK_P2_PPTX) |
+
+**Maturity Summary:**
+
+| Domain | Current Level | Target (12 months) |
+|--------|--------------|-------------------|
+| AI Governance & Accountability | 1 — Ad Hoc | 3 — Defined |
+| Risk Management | 1 — Ad Hoc | 3 — Defined |
+| Data Governance | 2 — Developing | 4 — Managed |
+| Model Transparency & Explainability | 0 — Non-existent | 3 — Defined |
+| Ethics & Fairness | 0 — Non-existent | 3 — Defined |
+| Regulatory Compliance | 1 — Ad Hoc | 3 — Defined |
+| Incident Response & Monitoring | 1 — Ad Hoc | 3 — Defined |
+
+**Regulatory Frameworks:** EU AI Act · FDA SaMD · ICH E6 (R3) GCP · ISO 42001:2023 · NIST AI RMF · GDPR · DPDP Act 2023
 
 ---
 
