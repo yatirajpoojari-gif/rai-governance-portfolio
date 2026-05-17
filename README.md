@@ -29,7 +29,7 @@
 | 1 | [RAI Governance for Claims Automation](./project-1-insurance-claims-ai/) | Insurance / BFSI | Risk Assessment · Lifecycle Governance · Ethics | ✅ Complete |
 | 2 | [RAI Maturity Assessment — Drug Discovery Gen AI](./project-2-pharma-genai/) | Pharma / Life Sciences | Maturity Model · Roadmap · Regulatory | ✅ Complete |
 | 3 | [AI Ethics & Risk — Consumer Personalisation Engine](./project-3-fmcg-retail/) | FMCG / Retail | Ethics · Fairness · Guardrails | ✅ Complete |
-| 4 | RAI Playbook — LLM Customer Service Chatbot | Contact Centre | NIST RMF · Vendor Assessment · Incident Response | 🔄 Coming Soon |
+| 4 | [RAI Playbook — LLM Customer Service Chatbot](./project-4-contact-centre/) | Contact Centre | NIST RMF · Vendor Assessment · Incident Response | ✅ Complete |
 
 ---
 
@@ -139,7 +139,28 @@
 ---
 
 ### 📁 Project 4 — RAI Playbook for LLM Customer Service Chatbot (Contact Centre)
-*Coming Soon*
+
+**Scenario:** VantageOne Financial Services — third-party LLM chatbot handling 40% of all customer contacts · **3 confirmed hallucination incidents · Zero NIST AI RMF controls · 16 risks · 5 Critical · FCA Consumer Duty exposure**
+
+| Deliverable | What's Inside | Format | Link |
+|-------------|--------------|--------|------|
+| RAI Assessment | NIST AI RMF gap analysis · hallucination risk · vendor assessment · human oversight architecture | MD | [Browse on GitHub](./project-4-contact-centre/rai-assessment.md) |
+| Risk Register | 16 risks across hallucination, vendor, governance, human oversight, and regulatory dimensions | MD | [Browse on GitHub](./project-4-contact-centre/risk-register.md) |
+| Governance Playbook | AI governance policy · vendor framework · incident response · escalation protocol · RACI | MD | [Browse on GitHub](./project-4-contact-centre/governance-policy.md) |
+| Case Study — Full Document | Full formatted case study | PDF | [📄 Download PDF](https://drive.google.com/file/d/1oHllp09Mb8HYklYuYBruhmn_glKJVaYc/view?usp=sharing) |
+| Case Study — Editable | Full formatted case study | DOCX | [📝 Download DOCX](https://docs.google.com/document/d/1qsW-X8yvKr21rzMUnr6OuDIdYqha_en8/edit?usp=sharing) |
+| Presentation Deck | 9-slide RAI playbook deck | PPTX | [📊 Download PPTX](https://docs.google.com/presentation/d/1sHyX8d_95O8qTht4u9cYQq3ogffxdXFc/edit?usp=sharing) |
+
+**NIST AI RMF Coverage:**
+
+| Function | Current State | Key Gaps |
+|----------|--------------|---------|
+| GOVERN | ❌ Not Implemented | No policy · No accountability owner · No inventory · No vendor framework |
+| MAP | ⚠️ Partially Implemented | No regulatory mapping · No FCA Consumer Duty assessment · No vulnerable customer analysis |
+| MEASURE | ❌ Not Implemented | No hallucination monitoring · No quality metrics · No customer outcome tracking |
+| MANAGE | ❌ Not Implemented | No incident response · No escalation protocol · No FCA notification process |
+
+**Regulatory Frameworks:** NIST AI RMF · FCA Consumer Duty (PS22/9) · FCA PRIN 12 · EU AI Act · ISO 42001:2023
 
 ---
 
