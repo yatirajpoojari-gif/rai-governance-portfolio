@@ -26,7 +26,7 @@
 
 | # | Project | Industry | Primary Focus | Status |
 |---|---------|----------|---------------|--------|
-| 1 | [RAI Governance for Claims Automation](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/) | Insurance / BFSI | Risk Assessment · Lifecycle Governance · Ethics | ✅ Complete |
+| 1 | [RAI Governance for Claims Automation](./project-1-insurance-claims-ai/) | Insurance / BFSI | Risk Assessment · Lifecycle Governance · Ethics | ✅ Complete |
 | 2 | [RAI Maturity Assessment — Drug Discovery Gen AI](./project-2-pharma-genai/) | Pharma / Life Sciences | Maturity Model · Roadmap · Regulatory | ✅ Complete |
 | 3 | [AI Ethics & Risk — Consumer Personalisation Engine](./project-3-fmcg-retail/) | FMCG / Retail | Ethics · Fairness · Guardrails | ✅ Complete |
 | 4 | RAI Playbook — LLM Customer Service Chatbot | Contact Centre | NIST RMF · Vendor Assessment · Incident Response | 🔄 Coming Soon |
@@ -46,9 +46,9 @@
 
 | Deliverable | What's Inside | Format | Link |
 |-------------|--------------|--------|------|
-| RAI Assessment | Full lifecycle assessment — pre-implementation, in-production, post-deployment | MD | [Browse on GitHub](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/rai-assessment.md) |
-| Risk Register | 12 risks scored on Likelihood × Impact with mitigations and owners | MD | [Browse on GitHub](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/risk-register.md) |
-| Governance Policy | AI governance policy, accountability structure, RACI matrix | MD | [Browse on GitHub](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/governance-policy.md) |
+| RAI Assessment | Full lifecycle assessment — pre-implementation, in-production, post-deployment | MD | [Browse on GitHub](./project-1-insurance-claims-ai/rai-assessment.md) |
+| Risk Register | 12 risks scored on Likelihood × Impact with mitigations and owners | MD | [Browse on GitHub](./project-1-insurance-claims-ai/risk-register.md) |
+| Governance Policy | AI governance policy, accountability structure, RACI matrix | MD | [Browse on GitHub](./project-1-insurance-claims-ai/governance-policy.md) |
 | Case Study — Full Document | 8-page formatted case study | PDF | [📄 Download PDF](https://drive.google.com/file/d/11xAbi7rUNL7OqkHZxFD5WHeNJ1VIDwT_/view?usp=sharing) |
 | Case Study — Editable | Full formatted case study | DOCX | [📝 Download DOCX](https://docs.google.com/document/d/1V5HM8pqUeeDzzNISP-FXS6HUgmZMhzGj/edit?usp=sharing) |
 | Presentation Deck | 6-section RAI findings deck | PPTX | [📊 Download PPTX](https://docs.google.com/presentation/d/1oKwt6rrcbDGd79qPqW-E-GmRZZ6_TqKQ/edit?usp=sharing) |
@@ -160,12 +160,12 @@
 
 ## Reusable Frameworks
 
-The [`frameworks/`](./Project1_GitHub_Files/github/frameworks/) folder contains master templates you can adapt for any RAI engagement:
+The [`frameworks/`](./frameworks/) folder contains master templates you can adapt for any RAI engagement:
 
 | Template | What It's For |
 |----------|--------------| 
-| [`rai-assessment-master-template.md`](./Project1_GitHub_Files/github/frameworks/rai-assessment-master-template.md) | Full RAI assessment — any AI use case, any industry |
-| [`ai-risk-register-master.md`](./Project1_GitHub_Files/github/frameworks/ai-risk-register-master.md) | Risk register with scoring methodology and governance log |
+| [`rai-assessment-master-template.md`](./frameworks/rai-assessment-master-template.md) | Full RAI assessment — any AI use case, any industry |
+| [`ai-risk-register-master.md`](./frameworks/ai-risk-register-master.md) | Risk register with scoring methodology and governance log |
 
 **How to use them:**
 1. Copy `rai-assessment-master-template.md` → fill Section 1 (System Profile) first
