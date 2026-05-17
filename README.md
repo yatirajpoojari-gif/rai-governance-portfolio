@@ -49,8 +49,9 @@
 | RAI Assessment | Full lifecycle assessment — pre-implementation, in-production, post-deployment | MD | [Browse on GitHub](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/rai-assessment.md) |
 | Risk Register | 12 risks scored on Likelihood × Impact with mitigations and owners | MD | [Browse on GitHub](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/risk-register.md) |
 | Governance Policy | AI governance policy, accountability structure, RACI matrix | MD | [Browse on GitHub](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/governance-policy.md) |
-| Case Study — Full Document | 8-page formatted case study | DOCX | [📝 Download DOCX](YOUR_GOOGLE_DRIVE_LINK_P1_DOCX) |
-| Presentation Deck | 6-section RAI findings deck | PPTX | [📊 Download PPTX](YOUR_GOOGLE_DRIVE_LINK_P1_PPTX) |
+| Case Study — Full Document | 8-page formatted case study | PDF | [📄 Download PDF](https://drive.google.com/file/d/11xAbi7rUNL7OqkHZxFD5WHeNJ1VIDwT_/view?usp=sharing) |
+| Case Study — Editable | Full formatted case study | DOCX | [📝 Download DOCX](https://docs.google.com/document/d/1V5HM8pqUeeDzzNISP-FXS6HUgmZMhzGj/edit?usp=sharing) |
+| Presentation Deck | 6-section RAI findings deck | PPTX | [📊 Download PPTX](https://docs.google.com/presentation/d/1oKwt6rrcbDGd79qPqW-E-GmRZZ6_TqKQ/edit?usp=sharing) |
 
 **Key Findings at a Glance:**
 
@@ -91,8 +92,9 @@
 | RAI Maturity Assessment | 7-domain maturity scoring, gap analysis, 12-month roadmap | MD | [Browse on GitHub](./project-2-pharma-genai/rai-maturity-assessment.md) |
 | Risk Register | 14 risks across data, model, operational, ethical, and regulatory dimensions | MD | [Browse on GitHub](./project-2-pharma-genai/risk-register.md) |
 | Governance Policy | AI governance policy, RACI, human review protocol, incident response | MD | [Browse on GitHub](./project-2-pharma-genai/governance-policy.md) |
-| Case Study — Full Document | DOCX | [📝 Download DOCX](YOUR_GOOGLE_DRIVE_LINK_P2_DOCX) |
-| Presentation Deck | PPTX | [📊 Download PPTX](YOUR_GOOGLE_DRIVE_LINK_P2_PPTX) |
+| Case Study — Full Document | 8-page formatted case study | PDF | [📄 Download PDF](https://drive.google.com/file/d/1y-HFDMY7LuZo7S9pAIxHcPgHchwrn2Ih/view?usp=sharing) |
+| Case Study — Editable | Full formatted case study | DOCX | [📝 Download DOCX](https://docs.google.com/document/d/1eDE8KbAi8QM5maOvNBaQNZtH8wT3mpjp/edit?usp=sharing) |
+| Presentation Deck | 10-slide RAI maturity deck | PPTX | [📊 Download PPTX](https://docs.google.com/presentation/d/10GV1pQ8IL4o4KRq-JR8egYsFlzHR9mk5/edit?usp=sharing) |
 
 **Maturity Summary:**
 
@@ -117,6 +119,8 @@
 
 ### 📁 Project 4 — RAI Playbook for LLM Customer Service Chatbot (Contact Centre)
 *Coming Soon*
+
+---
 
 ---
 
