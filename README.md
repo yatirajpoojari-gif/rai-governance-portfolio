@@ -120,14 +120,6 @@
 
 ---
 
-> 💡 **How to update the download links above:**
-> 1. Upload the DOCX and PPTX files to Google Drive
-> 2. Right-click each file → Share → "Anyone with the link can view" → Copy link
-> 3. Edit this README and replace each `YOUR_GOOGLE_DRIVE_LINK_...` placeholder with the copied URL
-> 4. Commit the change — the links will go live immediately
-
----
-
 ## AIGP Knowledge Domains Covered
 
 | Domain | Coverage in This Portfolio |
