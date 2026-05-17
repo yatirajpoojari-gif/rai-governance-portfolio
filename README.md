@@ -28,7 +28,7 @@
 |---|---------|----------|---------------|--------|
 | 1 | [RAI Governance for Claims Automation](./Project1_GitHub_Files/github/project-1-insurance-claims-ai/) | Insurance / BFSI | Risk Assessment · Lifecycle Governance · Ethics | ✅ Complete |
 | 2 | [RAI Maturity Assessment — Drug Discovery Gen AI](./project-2-pharma-genai/) | Pharma / Life Sciences | Maturity Model · Roadmap · Regulatory | ✅ Complete |
-| 3 | AI Ethics & Risk — Consumer Personalisation Engine | FMCG / Retail | Ethics · Fairness · Guardrails | 🔄 Coming Soon |
+| 3 | [AI Ethics & Risk — Consumer Personalisation Engine](./project-3-fmcg-retail/) | FMCG / Retail | Ethics · Fairness · Guardrails | ✅ Complete |
 | 4 | RAI Playbook — LLM Customer Service Chatbot | Contact Centre | NIST RMF · Vendor Assessment · Incident Response | 🔄 Coming Soon |
 
 ---
@@ -112,8 +112,29 @@
 
 ---
 
-### 📁 Project 3 — AI Ethics & Risk for Consumer Personalisation Engine (FMCG / Retail)
-*Coming Soon*
+### 📁 Project 3 — AI Ethics & Risk Assessment for Consumer Personalisation Engine (FMCG / Retail)
+
+**Scenario:** LumeCart India — AI personalisation engine influencing 73% of purchase decisions for 8 million users · **Confirmed price discrimination · Fabricated urgency signals · Active DPDP Act 2023 complaint · 15 risks · 4 Critical**
+
+| Deliverable | What's Inside | Format | Link |
+|-------------|--------------|--------|------|
+| RAI Ethics Assessment | 4-dimension ethics assessment — bias, privacy, dark patterns, transparency | MD | [Browse on GitHub](./project-3-fmcg-retail/rai-assessment.md) |
+| Risk Register | 15 risks across bias, privacy, dark patterns, transparency, and governance | MD | [Browse on GitHub](./project-3-fmcg-retail/risk-register.md) |
+| Governance Policy | AI ethics policy, RACI, consumer rights framework, ethics review gate | MD | [Browse on GitHub](./project-3-fmcg-retail/governance-policy.md) |
+| Case Study — Full Document | Full formatted case study | PDF | [📄 Download PDF](https://drive.google.com/file/d/1ZPnAnzli6DzI26AqvHVVw5y9o8xcfQQW/view?usp=sharing) |
+| Case Study — Editable | Full formatted case study | DOCX | [📝 Download DOCX](https://docs.google.com/document/d/1xY-27xMVv6Efj_0mnufnQep2YhsqjQ1n/edit?usp=sharing) |
+| Presentation Deck | 9-slide AI ethics findings deck | PPTX | [📊 Download PPTX](https://docs.google.com/presentation/d/1V0pGGoXeHVejBZC083UTHNYI6ACtmpVO/edit?usp=sharing) |
+
+**Ethics Themes Covered:**
+
+| Theme | Key Finding |
+|-------|------------|
+| Algorithmic Bias & Fairness | Tier-2/3 city users charged 8–23% more for identical products · No fairness constraints ever applied |
+| Consumer Data Privacy | DPDP Act 2023 violated across 7 provisions · 14 undisclosed SDKs · 4-year retention breach |
+| Dark Patterns & Manipulation | Fabricated scarcity signals · Fake countdown timers · Inflated social proof · Drip pricing |
+| Transparency & Explainability | No AI disclosure · No price explanation · No opt-out · No Algorithmic Accountability Report |
+
+**Regulatory Frameworks:** DPDP Act 2023 · Consumer Protection Act 2019 · EU AI Act · BIS IS 17880 · NIST AI RMF
 
 ---
 
